@@ -2,9 +2,7 @@
 the assignment was to classify astronomical object from the perspective of data analyst standpoint.
 # Downloading the Data
 
-If you're familiar with Git and Github you can clone this repository to your local machine, otherwise click the green 'Code' button above and select 'Download Zip'.
-
-[![](https://live.staticflickr.com/65535/51326396044_d8abeff58d_z.jpg)](https://live.staticflickr.com/65535/51326396044_d8abeff58d_b.jpg)
+(https://github.com/thespacedoctor/astro-analytathon/tree/master/data)
 
 # Dataset
  - 645 objects, each with a lightcurve
